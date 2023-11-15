@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pogarchive", "pogarchive\pogarchive.csproj", "{93B4A801-1B23-4E27-9E3C-989089DEABE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testss", "Testss\Testss.csproj", "{B429B114-211E-457A-A616-CBCF1477192A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93B4A801-1B23-4E27-9E3C-989089DEABE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B4A801-1B23-4E27-9E3C-989089DEABE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B4A801-1B23-4E27-9E3C-989089DEABE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B4A801-1B23-4E27-9E3C-989089DEABE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B429B114-211E-457A-A616-CBCF1477192A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B429B114-211E-457A-A616-CBCF1477192A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B429B114-211E-457A-A616-CBCF1477192A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B429B114-211E-457A-A616-CBCF1477192A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B2C8DF6-29CE-43FF-A59F-1C66E9FDEB3F}
+	EndGlobalSection
+EndGlobal
